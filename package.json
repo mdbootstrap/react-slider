@@ -1,6 +1,6 @@
 {
   "name": "@mdbootstrap/react-slider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive React Sliders built with Bootstrap 5. Range slider bar with label or a carousel image slider? No matter what you are looking for, we've got you covered.",
   "private": false,
   "homepage": "https://mdbootstrap.com/docs/react/extended/slider/",
@@ -24,7 +24,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "jsx",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
